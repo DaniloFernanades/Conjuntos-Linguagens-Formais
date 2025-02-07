@@ -20,7 +20,7 @@ $-20 \notin \mathbb{N}$
 ---
 
 ### Conjunto $\mathbb{Z}$
-$\mathbb{Z} = \{\dots\,, -3, -2, -1, 0, 1, 2, 3, \dots\}$
+$\mathbb{Z}$ = {..., -3, -2, -1, 0, 1, 2, 3, ...}
 
 A cardinalidade do conjunto dos números inteiros $\mathbb{Z}$ é $\aleph_0$, pois ele pode ser enumerado de forma bijetora com os números naturais.
 
@@ -31,7 +31,7 @@ $5.9 \notin \mathbb{Z}$
 ---
 
 ### Conjunto $\mathbb{Q}$
-Q = {..., -3/2, -1, 0, 1/2, 2, 3.5, ...}
+$\mathbb{Q}$ = {..., -3/2, -1, 0, 1/2, 2, 3.5, ...}
 
 O conjunto dos números racionais $\mathbb{Q}$ tem cardinalidade $\aleph_0$, pois pode ser enumerado de forma bijetora com $\mathbb{N}$, apesar de parecer maior que $\mathbb{Z}.$
 
