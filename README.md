@@ -41,7 +41,7 @@ $1.4142 \notin \mathbb{Z}$ ou $\sqrt{2}\notin \mathbb{Z}$$
 
 ---
 
-### Saída
+### Saída-Código
 Números Naturais  
 N = {0,1,2,3,4,5,...}  
 
