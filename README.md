@@ -31,7 +31,7 @@ $5.9 \notin \mathbb{Z}$
 ---
 
 ### Conjunto $\mathbb{Q}$
-$\mathbb{Q} = \{\dots, -\frac{3}{2}, -1, 0, \frac{1}{2}, 2, 3.5, \dots\}$
+Q = {..., -3/2, -1, 0, 1/2, 2, 3.5, ...}
 
 O conjunto dos números racionais $\mathbb{Q}$ tem cardinalidade $\aleph_0$, pois pode ser enumerado de forma bijetora com $\mathbb{N}$, apesar de parecer maior que $\mathbb{Z}.$
 
