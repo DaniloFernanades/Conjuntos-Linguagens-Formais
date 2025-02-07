@@ -9,7 +9,7 @@ Este programa implementa conjuntos numéricos utilizando a classe `Conjunto`, pe
 - Imprimir os conjuntos no formato adequado.
 
 ### Conjunto $\mathbb{N}$
-$\mathbb{N} = {0, 1, 2, 3, 4, 5, \dots\}$
+$\mathbb{N}$ = {0, 1, 2, 3, 4, 5, ...}
 
 A cardinalidade do conjunto dos números naturais é $\aleph_0$ (alef-zero), indicando que é um conjunto infinito contável.
 
