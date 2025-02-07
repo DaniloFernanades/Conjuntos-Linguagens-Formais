@@ -42,10 +42,12 @@ $1.4142 \notin \mathbb{Z}$ ou $\sqrt{2}\notin \mathbb{Z}$$
 ---
 
 ### Saída
+$$
 Numeros Naturais
 N = {0,1,2,3,4,5,...}
 N -> 1 | True
 N -> | False
+$$
 
 Numeros Inteiros
 Z = {...,-3,-2,-1,0,1,2,3,...}
