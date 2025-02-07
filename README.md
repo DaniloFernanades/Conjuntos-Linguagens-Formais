@@ -42,23 +42,19 @@ $1.4142 \notin \mathbb{Z}$ ou $\sqrt{2}\notin \mathbb{Z}$$
 ---
 
 ### Saída
-# Números Naturais  
+Números Naturais  
 N = {0,1,2,3,4,5,...}  
 
 N -> 1 | True  
 N -> -5 | False  
 
----
-
-# Números Inteiros  
+Números Inteiros  
 Z = {...,-3,-2,-1,0,1,2,3,...}  
 
 Z -> -3 | True  
 Z -> 5.9 | False  
 
----
-
-# Números Racionais  
+Números Racionais  
 Q = {...,-1.5,-1,0,0.5,2,3.5,...}  
 
 Q -> 0 | True  
