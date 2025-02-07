@@ -43,39 +43,23 @@ $1.4142 \notin \mathbb{Z}$ ou $\sqrt{2}\notin \mathbb{Z}$$
 
 ### Saída
 # Números Naturais  
-**Definição:**  
-\[
-\mathbb{N} = \{0,1,2,3,4,5,\dots\}
-\]
+N = {0,1,2,3,4,5,...}  
 
-| Expressão | Pertence a \( \mathbb{N} \)? |
-|-----------|----------------|
-| \( N \to 1 \) | ✅ True  |
-| \( N \to -5 \) | ❌ False |
+N -> 1 | True  
+N -> -5 | False  
 
 ---
 
 # Números Inteiros  
-**Definição:**  
-\[
-\mathbb{Z} = \{\dots,-3,-2,-1,0,1,2,3,\dots\}
-\]
+Z = {...,-3,-2,-1,0,1,2,3,...}  
 
-| Expressão | Pertence a \( \mathbb{Z} \)? |
-|-----------|----------------|
-| \( Z \to -3 \) | ✅ True  |
-| \( Z \to 5.9 \) | ❌ False |
+Z -> -3 | True  
+Z -> 5.9 | False  
 
 ---
 
 # Números Racionais  
-**Definição:**  
-\[
-\mathbb{Q} = \{\dots,-1.5,-1,0,0.5,2,3.5,\dots\}
-\]
+Q = {...,-1.5,-1,0,0.5,2,3.5,...}  
 
-| Expressão | Pertence a \( \mathbb{Q} \)? |
-|-----------|----------------|
-| \( Q \to 0 \) | ✅ True  |
-| \( Q \to 1.4142 \) | ❌ False |
-
+Q -> 0 | True  
+Q -> 1.4142 | False  
